@@ -5,7 +5,7 @@ Kinematics and Dynamics of Ping Pong Robot simulated and analized with Matlab.
 2. Load last data and run DeltaRobot.m to simulate the Robot (has been used Delta Robot) motion from Inverse Kinematic;
 3. Run LoadTorqueAnalysis.m to see how we study Dynamic of the Robot and which Torque request by the actuators.
 
-Autors: 
+Authors: 
 	- Donato Caramia;
 	- Giovanni Soleti.
 
